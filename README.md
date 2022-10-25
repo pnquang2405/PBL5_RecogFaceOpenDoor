@@ -7,3 +7,6 @@ Create folder "Dataset":
   In folder Dataset create folder "FaceData":
     In folder FaceData create two folder "raw" and "processed":
       In folder raw contain folders used to contain images(sample image).
+
+
+Sample Image used to training.
